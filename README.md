@@ -6,8 +6,7 @@ It lets users create short links, track clicks, view statistics, and delete link
 ---
 
 ## 🚀 Live Demo
-> https://your-vercel-url.vercel.app/  
-(Replace this with your deployed URL)
+>[(https://tiny-link-tau.vercel.app/)]
 
 ---
 
@@ -54,7 +53,9 @@ CREATE TABLE links (
 ```
 npm run dev
 ```
+
 ---
+
 ##Folder Structure:
 ```
 pages/
@@ -64,4 +65,4 @@ pages/
   api/links/*.js         → CRUD APIs
   api/healthz.js         → Health check
 ```
-
+---
